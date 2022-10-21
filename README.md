@@ -8,5 +8,7 @@
 
 ## Links
 
+Heroku Deployed Page: https://notetaker10492.herokuapp.com/notes
+
 Github: https://github.com/michaelyiu1/noteTaker
 
